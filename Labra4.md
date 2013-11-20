@@ -1,3 +1,4 @@
+Linkki:http://www.theseus.fi/bitstream/handle/10024/39057/Tiainen_Tuukka.pdf?sequence=1
 (johdanto)
 - Projekti on ajanvarausjärjestelmä Oktacode nimiselle yhtiölle.
 - Kyseessä on opinnäytetyö, jonka lukijakunta koostuu muista opiskelijoista,opettajista, mutta ensisijaisesti Oktacoden kehitystiimistä.
