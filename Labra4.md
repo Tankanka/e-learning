@@ -44,7 +44,7 @@ päihittää kilpailevat tuotteet.
 - Tämän dokumentin suuri huono puoli oli sisällysluettelon puuttuminen ja otsikoinnin epäselvä muotoilu.
 - Hyviä puolia: hyvä kirjakieli ja lukijakunnalle oikeanlainen teksti.
 - Kaaviot olivat selkeitä ja informatiivisia.
-- 
+
 
 
 
