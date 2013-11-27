@@ -7,4 +7,4 @@ Ominaisuuksia:
 
 - läsnäolon automaattinen kirjaaminen
 - materiaalin jako sähköisesti tunnilla läsnäoleville
-- 
+
