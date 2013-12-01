@@ -1,4 +1,4 @@
-Käyttötapaukset (mitä sillä voi tehdä)
+Käyttötapaukset
 
 - opiskelija voi kirjautua läsnäolevaksi tunnille
 - opettaja voi kirjata opiskelijan läsnäolevaksi tunnille, jos opiskelijalla ei ole puhelinta/tablettia mukana
@@ -14,10 +14,12 @@ Käyttötapaukset (mitä sillä voi tehdä)
 
 Käyttäjäryhmien määrittely
 
-- opettajat
-- opiskelijat
+- Opettajat: Luentojen pitäjä, joka vastaa luennosta (?)
+- Opiskelijat: Luennoille osallistuvat henkilöt, jotka ovat suorittamassa kyseistä kurssia
 
 Käyttötapauskaavio(t)
 
 Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali eteneminen, lopputila, mikä voi mennä vikaan...)
+
+Kuvaa yksi pääkäyttötapaus vuokaaviona
 
