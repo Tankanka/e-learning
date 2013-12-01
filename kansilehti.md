@@ -1,13 +1,13 @@
-Tuotteen nimi
-Tuotteen kuvaus
+Läsnäolotrackeri
 
-Ryhmän nimi
+Läsnäolojen seuraaminen sähköisesti ei ole koskaan ollut näin helppoa
+
 
 Ryhmän jäsenet:
 Joonas Ekström
-Tanja Kankaisto
+Tanja Kankaisto, 1102800
 Sami Kaskinen
 
-Päivämäärä
+8.12.2013
 
 
