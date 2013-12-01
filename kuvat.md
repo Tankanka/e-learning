@@ -23,7 +23,7 @@ Kurssit -alasivulta löytyy listauksena kaikki kurssit, joille käyttäjä osall
 
 ![kurssit](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssit.jpg)
 
-Yksittäisen kurssin näkymässä opiskelija näkee tarkemmin kurssin läsnäolovaatimukset. Kun luento on alkamassa ja opiskelija on oikeassa luokassa muuttuu "Kirjaudu luennolle" -nappi vihreäksi ja opiskelija pystyy kirjautumaan läsnäolevaksi.
+Yksittäisen kurssin näkymässä opiskelija näkee tarkemmin kurssin läsnäolovaatimukset. Kun luento on alkamassa ja opiskelija on oikeassa luokassa muuttuu "Kirjaudu läsnäolevaksi" -nappi vihreäksi ja opiskelija pystyy kirjautumaan läsnäolevaksi.
 
 ![yksittainen](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssinakyma.jpg)
 ![opettajan kurssi](http://users.metropolia.fi/~joonasee/github-tehtavat/Opettajan_Kurssinakyma.jpg)
