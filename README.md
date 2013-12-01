@@ -1,4 +1,4 @@
-e-learning
+Läsnäolotrackeri
 ---------
 
 Ohjelmaa käytetään opetuksen apuna.
