@@ -9,7 +9,7 @@ Järjestelmä koostuu viidestä (5) päänäkymästä
 
 Siirtymät näkymien välillä
 
-![siirtyma](http://users.metropolia.fi/~tarjajar/ohtu/siirtyma.jpg)
+-> Tähän siirtymäkuva
 
 Sisäänkirjautumissivu on sekä opettajille, että oppilaille samannäköinen.
 
@@ -26,5 +26,7 @@ Kurssit -alasivulta löytyy listauksena kaikki kurssit, joille käyttäjä osall
 Yksittäisen kurssin näkymässä opiskelija näkee tarkemmin kurssin läsnäolovaatimukset. Kun luento on alkamassa ja opiskelija on oikeassa luokassa muuttuu "Kirjaudu läsnäolevaksi" -nappi vihreäksi ja opiskelija pystyy kirjautumaan läsnäolevaksi.
 
 ![yksittainen](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssinakyma.jpg)
+
+Opettajan kurssinäkymä poikkeaa hieman oppilaan näkymästä. Opettaja näkee koko ajan päivittyvän prosentin siitä kuinka moni on oppitunnille kirjautunut läsnäolevaksi. Opettaja voi myös manuaalisesti lisätä oppilaan läsnäolevaksi, jos oppilaalle ei ole puhelinta tai tablettia mukana. Opettaja voi myös lähettää tiedostoja kaikille luennolla läsnäoleville.
 ![opettajan kurssi](http://users.metropolia.fi/~joonasee/github-tehtavat/Opettajan_Kurssinakyma.jpg)
 
