@@ -1,3 +1,12 @@
+Käyttöliittymä
+==============
+Järjestelmä koostuu viidestä (5) päänäkymästä
+- Sisäänkirjautuminen
+- Etusivu
+- Kurssit
+- Yksittäinen kurssinäkymä
+- Opettajan yksittäinen kurssinäkymä
+
 ![sisaankirjautuminen](http://users.metropolia.fi/~joonasee/github-tehtavat/sisaankirjautuminen.jpg)
 ![etusivu](http://users.metropolia.fi/~joonasee/github-tehtavat/Etusivu.jpg)
 ![kurssit](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssit.jpg)
