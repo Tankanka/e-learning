@@ -19,7 +19,9 @@
 
 ##Käyttötapauskaavio(t)
 
-##Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali eteneminen, lopputila, mikä voi mennä vikaan...)
+##Käyttäjäskenaariot
+
+(mallipohjaan perustuen: alkutila, normaali eteneminen, lopputila, mikä voi mennä vikaan...)
 
 ##Kuvaa yksi pääkäyttötapaus vuokaaviona
 
