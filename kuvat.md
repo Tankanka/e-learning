@@ -19,9 +19,12 @@ Sisäänkirjautumissivulta järjestelmä menee automaattisesti Etusivulle, josta
 
 ![etusivu](http://users.metropolia.fi/~joonasee/github-tehtavat/Etusivu.jpg)
 
-Kurssit -alasivulta löytyy listauksena kaikki kurssit, joille käyttäjä osallistuu kyseisen jakson aikana. Kurssin nimeä painamalla käyttäjä pääsee kyseisen kurssin omalle sivulle.
+Kurssit -alasivulta löytyy listauksena kaikki kurssit, joille käyttäjä osallistuu kyseisen jakson aikana. Kurssin nimeä painamalla käyttäjä pääsee kyseisen kurssin omalle sivulle. Kurssin nimen alta löytyy tieto siitä miten monta pakollista läsnäoloa kurssilla on ja miten monta kertaa kyseinen opiskelija on ollut paikalla.
 
 ![kurssit](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssit.jpg)
+
+Yksittäisen kurssin näkymässä opiskelija näkee tarkemmin kurssin läsnäolovaatimukset. Kun luento on alkamassa ja opiskelija on oikeassa luokassa muuttuu "Kirjaudu luennolle" -nappi vihreäksi ja opiskelija pystyy kirjautumaan läsnäolevaksi.
+
 ![yksittainen](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssinakyma.jpg)
 ![opettajan kurssi](http://users.metropolia.fi/~joonasee/github-tehtavat/Opettajan_Kurssinakyma.jpg)
 
