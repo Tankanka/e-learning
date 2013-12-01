@@ -15,11 +15,11 @@ Sisäänkirjautumissivu on sekä opettajille, että oppilaille samannäköinen.
 
 ![sisaankirjautuminen](http://users.metropolia.fi/~joonasee/github-tehtavat/sisaankirjautuminen.jpg)
 
-Sisäänkirjautumissivulta järjestelmä menee automaattisesti Etusivulle, josta käyttäjä näkee kyseisen päivän lukujärjestyksensä. Järjestelmä on synkronoitu Tuubin ja Lukkarikoneen kanssa. Kurssin nimeä painamalla pääsee käyttäjä kyseisen kurssin omalle sivulle.
+Sisäänkirjautumissivulta järjestelmä menee automaattisesti Etusivulle, josta käyttäjä näkee kyseisen päivän lukujärjestyksensä. Järjestelmä on synkronoitu Tuubin ja Lukkarikoneen kanssa. Kurssin nimeä painamalla käyttäjä pääsee kyseisen kurssin omalle sivulle.
 
 ![etusivu](http://users.metropolia.fi/~joonasee/github-tehtavat/Etusivu.jpg)
 
-Kurssin omalta sivulta
+Kurssit -alasivulta löytyy listauksena kaikki kurssit, joille käyttäjä osallistuu kyseisen jakson aikana. Kurssin nimeä painamalla käyttäjä pääsee kyseisen kurssin omalle sivulle.
 
 ![kurssit](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssit.jpg)
 ![yksittainen](http://users.metropolia.fi/~joonasee/github-tehtavat/Kurssinakyma.jpg)
