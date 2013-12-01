@@ -9,7 +9,7 @@ Järjestelmä koostuu viidestä (5) päänäkymästä
 
 Siirtymät näkymien välillä
 
-![siirtyma nakymien valilla](http://users.metropolia.fi/~tarjajar/ohtu/siirtyma_nakymien_valilla.jpg)
+![siirtyma nakymien valilla](http://users.metropolia.fi/~tarjajar/ohtu/siirtyma.jpg)
 
 Sisäänkirjautumissivu on sekä opettajille, että oppilaille samannäköinen.
 
