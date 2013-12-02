@@ -18,6 +18,7 @@
 - Opiskelijat: Luennoille osallistuvat henkilöt, jotka ovat suorittamassa kyseistä kurssia
 
 ##Käyttötapauskaavio(t)
+![kayttotapauskaavio](http://users.metropolia.fi/~tarjajar/ohtu/kayttotapaukset.jpg)
 
 ##Käyttäjäskenaariot
 
