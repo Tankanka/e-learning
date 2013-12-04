@@ -1,6 +1,12 @@
 ##Funktionaaliset vaatimukset
 
-- 
+- Opiskelijan täytyy pystyä kirjautumaan läsnäolevaksi kurssille
+- Opiskelijan täytyy pystyä tarkastelemaan omia läsnäolomääriä kurssilla
+- Opiskelijan täytyy pystyä lähettämään muille läsnäolijoille tiedostoja
+- Opiskelijan täytyy pystyä vastaanottamaan tiedostoja opettajalta tai muilta läsnäolijoilta
+- Opettajan täytyy pystyä kirjaamaan opiskelija läsnäolevaksi luennolle
+- Opettajan täytyy pystyä lähettämään tiedostoja läsnäolijoille
+- Opettajan täytyy pystyä vastaanottamaan tiedostoja läsnäolijoilta
 
 **KUINKA TAATA JÄRJESTELMÄN HELPPOKÄYTTÖISYYS?**
 
