@@ -4,4 +4,4 @@ Metropolia ammattikorkeakoululla on käytössä Kana -sisätilapaikannusjärjest
 
 "Ohjelmistotuotanto" -kurssin projektityönä on ideoida uusia sovelluksia, jotka hyödyntävät Kana -sisätilapaikannusjärjestelmää. Ideoimamme järjestelmän avulla opiskelija voi kirjautua luennolle läsnäolevaksi ollessaan oikeaan aikaa oikeassa paikassa. Jos opiskelijalla ei ole puhelinta/tablettia mukana luennolla, voi opettaja kirjata hänet tunnille läsnäolevaksi manuaalisesti. Tämän lisäksi ohjelman avulla opiskelija tai opettaja voivat lähettää tiedostoja luennolla länäoleville.
 
-Ideoimamme sovellus on ensimmäinen versio opetuksen apuna käytettävästä mobiilisovelluksesta. Tämän päälle on helppo rakentaa lisäominaisuuksia myöhemmin.
+Ideoimamme sovellus on ensimmäinen versio opetuksen apuna käytettävästä mobiilisovelluksesta. Tämän päälle on mahdollista rakentaa lisäominaisuuksia myöhemmin.
