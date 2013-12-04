@@ -14,7 +14,7 @@
 
 ##Käyttäjäryhmien määrittely
 
-- Opettajat: Luentojen vetäjä, joka vastaa luennosta (?)
+- Opettajat: Luentojen vetäjä, joka vastaa luennosta
 - Opiskelijat: Luennoille osallistuvat henkilöt, jotka ovat suorittamassa kyseistä kurssia
 
 ##Käyttötapauskaavio(t)
