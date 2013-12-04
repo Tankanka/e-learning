@@ -24,5 +24,5 @@
 
 Opiskelija on menossa luennolle ja haluaa kirjautua luennolle läsnäolevaksi.
 
-![vuokaavio](http://users.metropolia.fi/~tarjajar/ohtu/vuokaavio.jpg)
+![vuokaavio](http://users.metropolia.fi/~tarjajar/ohtu/vuokaavio2.jpg)
 
