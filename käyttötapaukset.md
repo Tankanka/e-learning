@@ -3,10 +3,11 @@
 Opiskelijan käyttötapaukset:
 
 - opiskelija voi kirjautua läsnäolevaksi tunnille
+- opiskelija voi katsoa ohjelmasta kuinka monella tunnilla on ollut paikalla
 - opiskelija voi palauttaa luentotehtävän opettajalle sähköisesti
 - opiskelija voi jakaa kaikille tunnilla läsnäoleville tiedoston
 - opiskelija voi joko hyväksyä tai hylätä opettajan/toisen opiskelijan lähettämän tiedoston
-- opiskelija voi katsoa ohjelmasta kuinka monella tunnilla on ollut paikalla
+
 
 Opettajan käyttötapaukset:
 
