@@ -1,4 +1,9 @@
+##Funktionaaliset vaatimukset
+
+- 
+
 **KUINKA TAATA JÄRJESTELMÄN HELPPOKÄYTTÖISYYS?**
+
 Ei lähdetä hakemaan kuuta taivaalta. Käyttöliittymä on ysinkertainen ja tehty juuri suunniteltuja toimintoja varten. 
 Sovelluksiin ei laiteta mitään toissijaista, kuten koulun ruokatarjontaa, vaan kaikki asiat kohdistuvat 
 kurssien näkymiseen, niille paikka olevaksi ilmoittamiseen ja tiedostojen välittämiseen. 
