@@ -7,7 +7,7 @@ Läsnäolotrackeri
 
 Ryhmän jäsenet:
 
-Joonas Ekström
+Joonas Ekström,  1203234
 
 Tanja Kankaisto, 1102800
 
