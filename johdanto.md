@@ -1,4 +1,4 @@
-JOHDANTO
+##JOHDANTO
 
 Metropolia ammattikorkeakoululla on käytössä Kana -sisätilapaikannusjärjestelmä. Sen toiminta perustuu laitteiden lähettämään signaaliin, kun niissä on wifi päällä. Järjestelmän avulla voidaan nähdä missä luokkatilassa tai muussa tilassa järjestelmään kirjautuneet henkilöt kyseisellä hetkellä ovat.
 
