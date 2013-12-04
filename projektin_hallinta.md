@@ -1,13 +1,11 @@
 Projektin hallinta / reflektio
 ==============
 
-Listatkaa työhön kuluneet tunnit per henkilö
-Joonas (), Sami (), Tanja ()
+Työhön kuluneet tunnit per henkilö
+Joonas (10h), Sami (Zzzzzzzzz), Tanja (10h)
 
-Kuinka vaikeaa oli arvioida työmäärää? Pitikö paikkaansa?
+Projektista iso osa tehtiin labroissa ja vain vähän jäi tehtäväksi omalle ajalle. Projekti oli ihan onnistunut ja vaikeinta oli päättää, että minkälainen sovellus tehdään. Alkuun pääseminen oli hankalinta.
 
-Mitä tekisitte toisin seuraavassa projetissa? Oliko projekti onnistunut ja ostaisitteko oman tuotteenne?
-
-Vaikein osa dokumentoinnissa? Jotain mihin ei itse ole tyytyväinen?
+Mitä tekisitte toisin seuraavassa projektissa?
 
 Vertaisarviointi (laitetaanko dokumenttiin mukaan vai miten?)
