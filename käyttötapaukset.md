@@ -25,4 +25,5 @@
 (mallipohjaan perustuen: alkutila, normaali eteneminen, lopputila, mikä voi mennä vikaan...)
 
 ##Kuvaa yksi pääkäyttötapaus vuokaaviona
+![vuokaavio](http://users.metropolia.fi/~tarjajar/ohtu/vuokaavio.jpg)
 
