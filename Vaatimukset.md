@@ -1,4 +1,4 @@
-##KUINKA TAATA JÄRJESTELMÄN HELPPOKÄYTTÖISYYS?
+**KUINKA TAATA JÄRJESTELMÄN HELPPOKÄYTTÖISYYS?**
 Ei lähdetä hakemaan kuuta taivaalta. Käyttöliittymä on ysinkertainen ja tehty juuri suunniteltuja toimintoja varten. 
 Sovelluksiin ei laiteta mitään toissijaista, kuten koulun ruokatarjontaa, vaan kaikki asiat kohdistuvat 
 kurssien näkymiseen, niille paikka olevaksi ilmoittamiseen ja tiedostojen välittämiseen. 
@@ -6,7 +6,7 @@ Järjestelmä toimii tableteissa ja kännyköissä olevien sovellusten, sekä ko
 Tiedostot lähetetään oppilaille/opettajille wifi-verkon yli, eli riittää että wifi-asetuksissa on laitettu yhteys päälle.
 
 
-KUINKA TAATA JÄRJESTELMÄN LUOTETTAVUUS?
+**KUINKA TAATA JÄRJESTELMÄN LUOTETTAVUUS?**
  Järjestelmä ei ole loppujenlopuksi kauhean raskas tai monimutkainen. 
  Ongelmia voi syntyä erilaisten laitteiden välillä, sillä sovelluksen tulee toimia heikoimmallakin älypuhelimella.
  Myös hyvät wifi-yhteys pisteet ovat välttämättömiä, sillä tiedostojen lähetys saattaa aiheuttaa kuormaa kun monelle 
@@ -15,14 +15,14 @@ KUINKA TAATA JÄRJESTELMÄN LUOTETTAVUUS?
  Luotettavuuteen vaatii se, että wifi-yhteyspisteet huomaisivat milloin oppilas olisi missäkin luokassa, 
  sillä muuten oppilas voisi ilmoittautua paikalla olevaksi missä vaan.
 
-JÄRJESTELMÄLLÄSI ON PALJON KÄYTTÄJIÄ, KUINKA TAATA ETTÄ JÄRJESTELMÄSSÄ ON RIITTÄVÄSTI TEHOJA?
+**JÄRJESTELMÄLLÄSI ON PALJON KÄYTTÄJIÄ, KUINKA TAATA ETTÄ JÄRJESTELMÄSSÄ ON RIITTÄVÄSTI TEHOJA?**
 Itse sovellusten määrä ei hidasta toisiaan, sillä jokaisella se on asennettuna omaan laitteeseen. 
 Ainoa asia, joka voi aiheuttaa ongelmia, on wifi-yhteys. 
 Yhteyspisteitä olisi oltava mahdollisimman paljon ja niistä tulisi tarkasti nähdä missä luokassa oppilas todella on. 
 Myös yhteysnopeus on hyvä olla nopea, sillä tiedostoja lähetetään suurissakin määrin oppilaiden ja opettajien kanssa.
 
 
-VAATIMUKSIA:
+**VAATIMUKSIA:**
 - Älypuhelin/tabletti.
 - Puhelimessa oltava käyttöjärjestelmä joka tukee sovellusta. Yleisimmät käyttöjärjestelmät tuetaan.
 - Koulun wifi-yhteydet: oltava runsaasti ja osattava sovellusten kautta paikantaa oppilas. 
