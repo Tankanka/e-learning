@@ -20,10 +20,9 @@
 ##Käyttötapauskaavio(t)
 ![kayttotapauskaavio](http://users.metropolia.fi/~tarjajar/ohtu/kayttotapaukset.jpg)
 
-##Käyttäjäskenaariot
+##Käyttäjäskenaario
 
-(mallipohjaan perustuen: alkutila, normaali eteneminen, lopputila, mikä voi mennä vikaan...)
+Opiskelija on menossa luennolle ja haluaa kirjautua luennolle läsnäolevaksi.
 
-##Kuvaa yksi pääkäyttötapaus vuokaaviona
 ![vuokaavio](http://users.metropolia.fi/~tarjajar/ohtu/vuokaavio.jpg)
 
