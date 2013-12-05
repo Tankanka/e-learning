@@ -1,3 +1,23 @@
+Läsnäolotrackeri
+================
+
+**Läsnäolojen seuraaminen sähköisesti ei ole koskaan ollut näin helppoa**
+
+
+
+Ryhmän jäsenet:
+
+Joonas Ekström,  1203234
+
+Tanja Kankaisto, 1102800
+
+Sami Kaskinen, 1102804
+
+**8.12.2013**
+
+
+
+
 ##JOHDANTO
 
 Metropolia ammattikorkeakoululla on käytössä Kana -sisätilapaikannusjärjestelmä. Sen toiminta perustuu laitteiden lähettämään signaaliin, kun niissä on wifi päällä. Järjestelmän avulla voidaan nähdä missä luokkatilassa tai muussa tilassa järjestelmään kirjautuneet henkilöt kyseisellä hetkellä ovat.
